@@ -1,0 +1,9 @@
+.conatiner {
+  display: flex;
+  justify-content: center;
+}
+
+#left {
+  text-align: left;
+  width: 300px;
+}
